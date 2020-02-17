@@ -8,3 +8,4 @@ One Day Hands-On Workshop on Open Source Software Development with Git & GitHub.
 
 ## Resources
 - [Hello Git - Presentation](https://docs.google.com/presentation/d/1GFkqPo97QgjDdUt1CVsrIA1CjR-2T7HK995cnEW1z3k/edit?usp=sharing)
+- [Introduction - Google Sumer of Code](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC2020Presentation.pptx)
